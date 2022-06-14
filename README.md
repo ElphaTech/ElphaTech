@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @ElphaTech
-- 👀 I’m interested in Pico8 and AHK
+- 👀 I’m interested in Python
+- I can code in:
+-   - Python
+-   - Lua
+-   - Pico8
+-   - AHK
+-   - HTML and CSS
 - 🌱 I’m currently learning ...nothing much
 - 💞️ I’m looking to collaborate on ...nothing much
 - 📫 How to reach me ...
