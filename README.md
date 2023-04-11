@@ -1,5 +1,7 @@
 👋 Hi, I’m @ElphaTech
+
 👀 I’m interested in programing
+
 I can code in:
   - Python
   - Lua
